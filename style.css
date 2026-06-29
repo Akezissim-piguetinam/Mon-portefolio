@@ -21,7 +21,6 @@
 			font-family: 'Cormorant Garamond', serif;
 			background: #1a1a1a;
 			color: #f5f0e8;
-			overflow: hidden;
 		}
 
 		body::before {
