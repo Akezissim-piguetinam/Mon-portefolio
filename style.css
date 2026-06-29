@@ -21,6 +21,8 @@
 			font-family: 'Cormorant Garamond', serif;
 			background: #1a1a1a;
 			color: #f5f0e8;
+			workflow-y: auto;
+			-webkit-overflow-scrolling: touch;
 		}
 
 		body::before {
@@ -38,7 +40,6 @@
 			display: grid;
 			grid-template-columns: 1fr 1fr;
 			position: relative;
-			overflow: hidden;
 		}
 
 		.hero::after {
