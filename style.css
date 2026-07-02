@@ -15,14 +15,12 @@
 
 		html {
 			scroll-behavior: smooth;
-			overflow: hidden;
 		}
 
 		body {
 			font-family: 'Cormorant Garamond', serif;
 			background: #1a1a1a;
 			color: #f5f0e8;
-			workflow-y: auto;
 			-webkit-overflow-scrolling: touch;
 		}
 
